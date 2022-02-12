@@ -1,10 +1,10 @@
 ### Hello!
 
-I'm a young (very young) musician and artist who also has an interest in programming. I started coding much later than my art/music hobby, and am a newbie to the field. 
+I'm a 16 year-old musician and artist hobbyist who also has an interest in programming. 
 
-**NOTE! Most of the project that I (may) put here are only for entertainment purposes and have no practical use.**
+All of my projects are just for fun.
 
-Some of the languages I know some bits of are C, D, Javascript, Pascal, and Rust. Portability is my main requisite, which means I prefer not the use of non-standard libraries.
+I know basic Rust, C, C++ and is learning Zig. I like portability, so I keep my depenencies as small as possible.
 
 You can find me on other platforms : 
 [Bandcamp](https://khoidauminh.bandcamp.com/)
