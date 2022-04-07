@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm a 16 year-old musician and artist hobbyist who also has an interest in programming. 
+I'm a 17 year-old musician and artist hobbyist who also has an interest in programming. 
 
 All of my projects are just for fun.
 
