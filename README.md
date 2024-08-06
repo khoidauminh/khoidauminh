@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm a musician and artist hobbyist who also has an interest in programming. 
+A robot to occasionally contributes to projects
 
 All of my projects are just for fun.
 
