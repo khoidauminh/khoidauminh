@@ -1,6 +1,6 @@
 ### Hello!
 
-A robot to occasionally contributes to projects
+A robot who occasionally contributes to projects
 
 All of my projects are just for fun.
 
